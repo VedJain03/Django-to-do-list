@@ -2,9 +2,14 @@
 
 This is a locally hosted to-do list created using Django and HTML in a virtual environment. 
 
+RUN CODE USING THIS COMMAND:
+'python manage.py runserver'
+
+The program will give a link similar to http://127.0.0.1:8000/ that can be used to access the program.
+
 The program has the following capabilities:
-  - Create a new list with title
-  - Create a new item with title, description, and due date under a specific list
+  - Create unlimited number of lists with title
+  - Create unlimited number of items with title, description, and due date for any list
   - Edit list title
   - Edit item title, description, and due date
   - Delete list
