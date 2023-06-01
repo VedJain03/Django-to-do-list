@@ -11,4 +11,6 @@ The program has the following capabilities:
   - Delete item
   - All underlined fields have links leading to other pages
 
+requirements.txt has the software specifications used to run this program
+
 Note: This is just a project I did in order to familiarize myself with Django and HTML, and there are definitely a lot of potential capabilities to be implemented in the future.
