@@ -15,6 +15,7 @@ The program has the following capabilities:
   - Delete list
   - Delete item
   - All underlined fields have links leading to other pages
+  - List and item data are stored for each user between sessions
 
 requirements.txt has the software specifications used to run this program
 
